@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  wordsmith:
+    git: https://github.com/luckyframework/wordsmith.git
+    version: 0.2.2+git.commit.0ee6ebe43a9459d19ff5a52467a1a3653609bea7
+
